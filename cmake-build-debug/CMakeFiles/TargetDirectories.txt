@@ -1,0 +1,3 @@
+C:/Users/cmarj/CLionProjects/parcial2archivoscabrera/cmake-build-debug/CMakeFiles/parcial2archivoscabrera.dir
+C:/Users/cmarj/CLionProjects/parcial2archivoscabrera/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cmarj/CLionProjects/parcial2archivoscabrera/cmake-build-debug/CMakeFiles/rebuild_cache.dir
